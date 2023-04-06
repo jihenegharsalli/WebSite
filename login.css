@@ -1,0 +1,29 @@
+.premierp{
+    color:black;
+    size: 300px;
+    font-style: bold;
+    text-align: center;
+    line-height: 40px;
+    font-size: 2em;
+    margin: 250px;
+   
+        border-width:5px;
+        border-style:solid;
+        border-color:black;
+        
+
+}
+.de{
+    color:red;
+    size:200px;
+    text-align: center;
+    font-size: 1.8em;
+    
+    
+}
+
+body{
+    background: url(vo.jpeg) fixed ;
+    
+    background-size: 1550px;
+}
