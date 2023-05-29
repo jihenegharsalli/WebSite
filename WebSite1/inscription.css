@@ -1,0 +1,49 @@
+body{
+    background:url('aa.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    max-width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgba(0,0,0,0.8);
+    text-align:center ;
+    border-radius: 20px;
+    padding: 40px;
+    color:#ffff;
+    box-sizing: border-box;
+}
+h2{
+    color: #ffff;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight:bold ;
+}
+input{
+    width:100%;
+    margin: 10px 0;
+    outline:none;
+    background-color: transparent;
+    color: #ffff;
+    padding:10px 6px;
+    font-size: 18px;
+    font-weight: bold;
+    box-sizing: border-box;
+    border:none;
+    border-bottom: 1px #ffff solid;
+}
+button{
+    width:150px;
+    border-radius: 12px;
+    padding: 10px;
+    background-color: rgb(90,120,190);
+    color: #ffff;
+    font-size: 20px;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+    margin: 30px 10px 0px px;
+
+}
